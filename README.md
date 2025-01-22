@@ -59,8 +59,8 @@ Labs (60%) – We will have 4 in-class lab assignments throughout the class. Lab
 you to practice the skills being presented in class. While they will be submitted individually, you are
 encouraged to work with your peers to the best of your interest. Labs will be submitted on Canvas and
 while individual submission requirements will differ for each week, you will typically need to submit:
-  ● A publishable markdown or Python notebook document in PDF or HTML format
-  ● Raw code folder (.zip) or link (ie: GitHub)
+  * A publishable markdown or Python notebook document in PDF or HTML format
+  * Raw code folder (.zip) or link (ie: GitHub)
 
 Final Presentation and Report (25%) – The course will culminate in a final project that will involve
 working with a dataset of your choice, giving a presentation, and submitting well-annotated code to
@@ -68,14 +68,15 @@ include summary information in report form. This is an open-ended project design
 groups and individuals to choose a topic of personal interest from the semester and perform exploratory
 data analysis (EDA) and predictive modelling on. The project will have intermediary assignments
 embedded within lab sessions. Graded deliverables will be released alongside an evaluation rubric.
-  ● Data Description (Pass/Fail) - 1 page description of group member(s), dataset source, size,
+
+  * Data Description (Pass/Fail) - 1 page description of group member(s), dataset source, size,
   features, and potential considerations when processing or cleaning data.
-  ● Pre-Analysis Plan (Pass/Fail) - 2 page summary of the intended data features and model plan.
+  * Pre-Analysis Plan (Pass/Fail) - 2 page summary of the intended data features and model plan.
   Plans should include at least 2 EDA visualizations and 2 supervised learning components.
-  ● Final Presentation (10%) - Groups will give 15 minute presentations of their findings and
+  * Final Presentation (10%) - Groups will give 15 minute presentations of their findings and
   analysis. Presentations should include an overview of the dataset, key methods and results, and a
   discussion of the implications of results.
-  ● Final Report (15%) - 5 page collaborative report and code due after presentation during the
+  * Final Report (15%) - 5 page collaborative report and code due after presentation during the
   Finals period. The report will include a description of data preparation, substantial interpretation
   of results, and discussion of analysis with its ethical implications.
       
