@@ -34,13 +34,13 @@ Throughout the course, we will endeavor to “live the life of a data scientist�
 Data Science is incredibly broad and dynamic. The topics below are designed to reinforce this perspective and help you understand the field’s core tenements and what is demanded from practicing data scientists.  The key is for you to gain a sense of the scope of Data Science, what is needed to contribute to the community, and feel comfortable incorporating these techniques into your work moving forward. Specific learning objectives are below:
     
 Learning Objectives:
-● Gain experience working in teams to solve data driven problems
-● Be able to describe the field of machine learning
-● Understand computational and mathematical foundations of the methods presented
-● Articulate the advantages and disadvantages of selected ML approaches
-● Be able to select appropriate ML models given problems and data types
-● Understand the importance of and methods for evaluating ML models
-● Gain the foundational knowledge necessary to succeed in future machine learning coursework
+* Gain experience working in teams to solve data driven problems
+* Be able to describe the field of machine learning
+* Understand computational and mathematical foundations of the methods presented
+* Articulate the advantages and disadvantages of selected ML approaches
+* Be able to select appropriate ML models given problems and data types
+* Understand the importance of and methods for evaluating ML models
+* Gain the foundational knowledge necessary to succeed in future machine learning coursework
     
 
 The course will move rather quickly and can be demanding at times. However, you’ll be amazed how much you learn at the end of the semester!
