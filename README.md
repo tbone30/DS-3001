@@ -9,7 +9,7 @@ Course Materials: [Foundations of Machine Learning Repo](https://github.com/UVAD
 
 Subject Area and Catalog Number: Data Science, DS 3001
 
-Year, Term and Time: 2025, Spring, M/W
+Year, Term and Time: 2025, Spring, Mon/Wed
 
 Class Title: Foundations of Machine Learning 
 
